@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# claude / cowork local files
+.claude/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude / cowork local files
+.claude/
